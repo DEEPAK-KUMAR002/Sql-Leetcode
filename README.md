@@ -22,6 +22,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/DEEPAK-KUMAR002/Sql-Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/DEEPAK-KUMAR002/Sql-Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/DEEPAK-KUMAR002/Sql-Leetcode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/DEEPAK-KUMAR002/Sql-Leetcode/tree/master/0189-rotate-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -30,6 +31,7 @@
 | [0075-sort-colors](https://github.com/DEEPAK-KUMAR002/Sql-Leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/DEEPAK-KUMAR002/Sql-Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/DEEPAK-KUMAR002/Sql-Leetcode/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/DEEPAK-KUMAR002/Sql-Leetcode/tree/master/0189-rotate-array) |
 ## Sorting
 |  |
 | ------- |
@@ -48,4 +50,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/DEEPAK-KUMAR002/Sql-Leetcode/tree/master/0169-majority-element) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/DEEPAK-KUMAR002/Sql-Leetcode/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
