@@ -18,6 +18,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/DEEPAK-KUMAR002/Sql-Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/DEEPAK-KUMAR002/Sql-Leetcode/tree/master/0027-remove-element) |
+| [0045-jump-game-ii](https://github.com/DEEPAK-KUMAR002/Sql-Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/DEEPAK-KUMAR002/Sql-Leetcode/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/DEEPAK-KUMAR002/Sql-Leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/DEEPAK-KUMAR002/Sql-Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -59,11 +60,13 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/DEEPAK-KUMAR002/Sql-Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/DEEPAK-KUMAR002/Sql-Leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/DEEPAK-KUMAR002/Sql-Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/DEEPAK-KUMAR002/Sql-Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/DEEPAK-KUMAR002/Sql-Leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/DEEPAK-KUMAR002/Sql-Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
