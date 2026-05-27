@@ -19,6 +19,7 @@
 | [0015-3sum](https://github.com/DEEPAK-KUMAR002/Sql-Leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/DEEPAK-KUMAR002/Sql-Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/DEEPAK-KUMAR002/Sql-Leetcode/tree/master/0027-remove-element) |
+| [0033-search-in-rotated-sorted-array](https://github.com/DEEPAK-KUMAR002/Sql-Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0045-jump-game-ii](https://github.com/DEEPAK-KUMAR002/Sql-Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/DEEPAK-KUMAR002/Sql-Leetcode/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/DEEPAK-KUMAR002/Sql-Leetcode/tree/master/0075-sort-colors) |
@@ -93,5 +94,6 @@
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/DEEPAK-KUMAR002/Sql-Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/DEEPAK-KUMAR002/Sql-Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
