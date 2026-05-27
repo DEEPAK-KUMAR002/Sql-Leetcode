@@ -68,6 +68,7 @@
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/DEEPAK-KUMAR002/Sql-Leetcode/tree/master/0189-rotate-array) |
+| [0371-sum-of-two-integers](https://github.com/DEEPAK-KUMAR002/Sql-Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0380-insert-delete-getrandom-o1](https://github.com/DEEPAK-KUMAR002/Sql-Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 ## Dynamic Programming
 |  |
@@ -99,4 +100,8 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/DEEPAK-KUMAR002/Sql-Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/DEEPAK-KUMAR002/Sql-Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DEEPAK-KUMAR002/Sql-Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0371-sum-of-two-integers](https://github.com/DEEPAK-KUMAR002/Sql-Leetcode/tree/master/0371-sum-of-two-integers) |
 <!---LeetCode Topics End-->
