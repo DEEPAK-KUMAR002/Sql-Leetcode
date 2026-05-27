@@ -25,6 +25,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/DEEPAK-KUMAR002/Sql-Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/DEEPAK-KUMAR002/Sql-Leetcode/tree/master/0088-merge-sorted-array) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/DEEPAK-KUMAR002/Sql-Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/DEEPAK-KUMAR002/Sql-Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/DEEPAK-KUMAR002/Sql-Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/DEEPAK-KUMAR002/Sql-Leetcode/tree/master/0189-rotate-array) |
 | [0274-h-index](https://github.com/DEEPAK-KUMAR002/Sql-Leetcode/tree/master/0274-h-index) |
@@ -89,4 +90,8 @@
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/DEEPAK-KUMAR002/Sql-Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+## Binary Search
+|  |
+| ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/DEEPAK-KUMAR002/Sql-Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
