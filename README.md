@@ -76,6 +76,7 @@
 | [0045-jump-game-ii](https://github.com/DEEPAK-KUMAR002/Sql-Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/DEEPAK-KUMAR002/Sql-Leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/DEEPAK-KUMAR002/Sql-Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0338-counting-bits](https://github.com/DEEPAK-KUMAR002/Sql-Leetcode/tree/master/0338-counting-bits) |
 ## Greedy
 |  |
 | ------- |
@@ -103,5 +104,6 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0338-counting-bits](https://github.com/DEEPAK-KUMAR002/Sql-Leetcode/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/DEEPAK-KUMAR002/Sql-Leetcode/tree/master/0371-sum-of-two-integers) |
 <!---LeetCode Topics End-->
